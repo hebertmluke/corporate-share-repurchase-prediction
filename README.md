@@ -1,4 +1,4 @@
-# Corporate Share Repurchase Prediction
+# Corporate Share Repurchase Forecasting for Cross-Sectional Stock Selection
 
 A machine learning research project examining corporate share
 repurchase prediction and its application to stock selection.
