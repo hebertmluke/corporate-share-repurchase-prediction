@@ -5,7 +5,7 @@ repurchase prediction and its application to stock selection.
 
 ## Research paper
 
-[Read the research paper](reports/research_paper)
+[Read the research paper](reports/research_report.pdf)
 
 ## Project workflow
 
